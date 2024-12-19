@@ -1,0 +1,48 @@
+:: ciefpsettings E2 ::
+:: Abertis.Dasto.BRT ::
+..:: 02.11.2024 ::..
+
+#ciefpsettingse2
+
+Update astra.conf
+
+##### Astra 4A / SES-5 @ 4.8° E #####
+:: T2Mi :: 11747 H 30000 3/4  MX-800 :: pid 4096 ::
+- Армія ТБ
+- Рада
+- МЕGOGO СПОРТ 
+- Ми-Україна
+- КВАРТАЛ 
+- Світло 
+- СВІТ+ 
+- ТЕСТ8 
+- Перший 
+- Суспільне Культура
+- ТЕСТ11
+- ТЕСТ12
+
+:: T2Mi :: 11747 H 30000 3/4  MX-801 :: pid 4097 ::
+- DSNS Informed 1
+- DSNS Informed 2
+- DSNS Informed 3
+- DSNS Informed 4
+- DSNS Informed 5
+- DSNS Informed 6
+- DSNS Informed 7
+- DSNS Informed 8
+- DSNS Informed 9
+- DSNS Informed 10
+- DSNS Informed 11
+- DSNS Informed 12
+
+softcamkey :
+F 2FEE7BB7 00 1111113311111133 ; Added on 2024-11-02 12:37:34.301158 for Program 800 at 4.8E
+
+Facebook:ciefpsettings
+https://www.facebook.com/groups/ciefpsettings
+
+Telegram:ciefpsettings
+https://t.me/+rrqyyPbtcuk4ZDM0
+
+
+
