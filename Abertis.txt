@@ -28,7 +28,7 @@ Abertis PID 8008
 p:ABERTIS,c:031fff,c:181f48,C:2600,f:01
 
 Update plugins:
-CiefpSettingsT2miAbertis 1.8
+CiefpSettingsT2miAbertis 1.9
 CiefpSettingsT2miAbertisOpenPLi 1.4
 astra.conf:
 https://github.com/ciefp/astra.conf
