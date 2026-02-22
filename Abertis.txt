@@ -30,6 +30,12 @@ p:ABERTIS,c:031fff,c:181f48,C:2600,f:01
 Update plugins:
 CiefpSettingsT2miAbertis 1.8
 CiefpSettingsT2miAbertisOpenPLi 1.4
+astra.conf:
+https://github.com/ciefp/astra.conf
+astra.conf openpli:
+https://github.com/ciefp/astra.conf_openpli
+github files:
+https://github.com/ciefp/ciefpsettings-enigma2-Abertis-t2mi
 
 Facebook:ciefpsettings
 https://www.facebook.com/groups/ciefpsettings
