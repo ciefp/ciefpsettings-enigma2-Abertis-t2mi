@@ -3,19 +3,22 @@
 ..:: 22.02.2026 ::..
 
 #ciefpsettingse2
+Thanks EnoSat for your support
+
 Update:
 astra.conf
 astra.conf - openpli
 update softcam.key
+update plugins 
+a special settings was created just for openpli
 
-Abertis PID 8008
+Add:Abertis PID 8008
 - Prog 1 UHD-T2 [8008]
 - Prog 2 UHD-T2 [8008]
 - Prog 2 HD-T2 [8008]
 
 For these channels there is a separate settings for openpli
-
-Thanks EnoSat for your support
+The differences are in the settings within lamedb
 
 Openpli:
 03f0:0ce4af34:ea68:0000:1:0
