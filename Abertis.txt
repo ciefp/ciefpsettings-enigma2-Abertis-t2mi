@@ -1,44 +1,27 @@
 :: CiefpSettings E2 ::
 :: Abertis.Dasto.KRRT ::
-..:: 22.02.2026 ::..
+..:: 02.03.2026 ::..
 
 #ciefpsettingse2
-Thanks EnoSat for your support
+Thanks EnoSat for support
 
 Update:
 astra.conf
 astra.conf - openpli
-update softcam.key
-update plugins 
-a special settings was created just for openpli
 
-Add:Abertis PID 8008
-- Prog 1 UHD-T2 [8008]
-- Prog 2 UHD-T2 [8008]
-- Prog 2 HD-T2 [8008]
+Update
+### Abertis ###
+TV for PID: 
+8002,8008,2521,2522,2523,2524
 
-For these channels there is a separate settings for openpli
-The differences are in the settings within lamedb
+Radio for PID:
+2025,2026,2027,2028,
+2271,2271,2273,2274,
+2520, 421, 423,8001
 
-Openpli:
-03f0:0ce4af34:ea68:0000:1:0
-Abertis PID 8008
-p:ABERTIS,c:031fff,c:151f48,C:2600,f:01
-
-Openatv:
-03f0:0ce4af34:ea68:0000:1:0
-Abertis PID 8008
-p:ABERTIS,c:031fff,c:181f48,C:2600,f:01
-
-Update plugins:
-CiefpSettingsT2miAbertis 1.9
-CiefpSettingsT2miAbertisOpenPLi 1.4
-astra.conf:
-https://github.com/ciefp/astra.conf
-astra.conf openpli:
-https://github.com/ciefp/astra.conf_openpli
-github files:
-https://github.com/ciefp/ciefpsettings-enigma2-Abertis-t2mi
+### DTT Cyprus ####
+11761 H 15155
+F 2A88E0D9 00000000 1111113311111133 ;DTT Cyprus (39.0E/11761)
 
 Facebook:ciefpsettings
 https://www.facebook.com/groups/ciefpsettings
