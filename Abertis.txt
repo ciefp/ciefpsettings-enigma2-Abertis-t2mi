@@ -1,27 +1,21 @@
 :: CiefpSettings E2 ::
 :: Abertis.Dasto.KRRT ::
-..:: 02.03.2026 ::..
+..:: 29.04.2026 ::..
 
 #ciefpsettingse2
-Thanks EnoSat for support
+Thanks EnoSat
 
 Update:
 astra.conf
 astra.conf - openpli
 
 Update
-### Abertis ###
-TV for PID: 
-8002,8008,2521,2522,2523,2524
+Abertis 12584 V 16900
 
-Radio for PID:
-2025,2026,2027,2028,
-2271,2271,2273,2274,
-2520, 421, 423,8001
+Update plugins
+CiefpSettingsT2miAbertisOpenPLi 2.0
+CiefpSettingsT2miAbertis 2.4
 
-### DTT Cyprus ####
-11761 H 15155
-F 2A88E0D9 00000000 1111113311111133 ;DTT Cyprus (39.0E/11761)
 
 Facebook:ciefpsettings
 https://www.facebook.com/groups/ciefpsettings
