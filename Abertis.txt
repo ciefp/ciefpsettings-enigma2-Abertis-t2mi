@@ -1,21 +1,24 @@
 :: CiefpSettings E2 ::
 :: Abertis.Dasto.KRRT ::
-..:: 29.04.2026 ::..
+..:: 06.05.2026 ::..
 
 #ciefpsettingse2
-Thanks EnoSat
 
 Update:
 astra.conf
 astra.conf - openpli
 
 Update
-Abertis 12584 V 16900
+Abertis PID 8002
+
+Update DTTCyprus
+11837 H MX1
+11855 H MX2
 
 Update plugins
-CiefpSettingsT2miAbertisOpenPLi 2.0
-CiefpSettingsT2miAbertis 2.4
-
+CiefpSettingsT2miAbertisOpenPLi 2.1
+CiefpSettingsT2miAbertis 2.5
+Update motor settings
 
 Facebook:ciefpsettings
 https://www.facebook.com/groups/ciefpsettings
